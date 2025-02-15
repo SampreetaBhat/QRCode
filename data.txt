@@ -1,16 +1,4 @@
-Name: Veena Bhat
-Address: India, Karnataka, Honnavar, 581361
-Amount: 10000
----------------------------
-Name: Veena Bhat
-Address: India, Karnataka, Honnavar, 581361
-Amount: 10000
----------------------------
-Name: Samprteeta Bhat
-Address: India, Karnataka, Honnavar, 581361
-Amount: 10000
----------------------------
-Name: Sampada Bhat
+Name: Krishna
 Address: India, Karnataka, Honnavar, 581361
 Amount: 10000
 ---------------------------
